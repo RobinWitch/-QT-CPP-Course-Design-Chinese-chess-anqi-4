@@ -1,1 +1,5 @@
-# -QT-CPP-Course-Design-Chinese-chess-anqi-4
+本次更新了：
+
+1.增加主界面
+
+2.能够自动判断输赢、和棋
